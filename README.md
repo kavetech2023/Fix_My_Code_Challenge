@@ -6,6 +6,6 @@ This was a series of projects provided by ALX, in which I was challenged with de
 
 <h3>Author</h3>
 Kevin Kavete <kavetech@gmail.com>
-____________________________  
+
 <h2>Acknowledgements</h2>
 All work contained in this project was completed as part of the curriculum for ALX. ALX is is a campus-based full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information.
